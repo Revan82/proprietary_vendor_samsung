@@ -158,6 +158,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
 	vendor/samsung/jf-common/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
 	vendor/samsung/jf-common/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
-	vendor/samsung/jf-common/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+	vendor/samsung/jf-common/proprietary/lib/libsensorhubcontext.so.so:system/lib/libsensorhubcontext.so \
 	vendor/samsung/jf-common/proprietary/lib/hw/sensors_qcom.so:system/lib/hw/sensors_qcom.so \
 	vendor/samsung/jf-common/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so
