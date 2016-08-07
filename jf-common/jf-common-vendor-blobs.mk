@@ -152,12 +152,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
 	vendor/samsung/jf-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
 	vendor/samsung/jf-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
-	vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-	vendor/samsung/jf-common/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
-	vendor/samsung/jf-common/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
-	vendor/samsung/jf-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
-	vendor/samsung/jf-common/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
-	vendor/samsung/jf-common/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
-	vendor/samsung/jf-common/proprietary/lib/libsensorhubcontext.so:system/lib/libsensorhubcontext.so \
-	vendor/samsung/jf-common/proprietary/lib/hw/sensors_qcom.so:system/lib/hw/sensors_qcom.so \
-	vendor/samsung/jf-common/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so
+	vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
